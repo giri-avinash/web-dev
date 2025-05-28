@@ -1,2 +1,2 @@
 # web-dev
-this is first repo for web development
+this is first repo for web development.
